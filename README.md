@@ -1,4 +1,4 @@
-# Mixed-precision weights network for field-programmable gate array
+# [Mixed-precision weights network for field-programmable gate array](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251329) #
 
 There are two sections in this repository: `python` and `hls`. Please move to the preferred section.
 
